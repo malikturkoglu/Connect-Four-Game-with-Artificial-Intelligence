@@ -1,5 +1,5 @@
 # ConnectFourGamewithAi
-This document explains how Connect-Four game is implemented. Methods and 
+This document explains how Connect-Four game is implemented with artificial intelligence. Methods and 
 classes will be laid out concisely. 
 This document is strictly bonded to the project document. There may be parts 
 without explanation, which are coming directly from the project document. α-β 
